@@ -1,0 +1,1 @@
+{"values":["--token=${API_TOKEN} --cache=$CACHE_DIR","${OPTIONAL:-safe-default}"],"declared_names":["API_TOKEN"],"ambient_names":["CACHE_DIR"]}
